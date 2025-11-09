@@ -1,1 +1,1 @@
-# IBM-test-ML
+# IBM-Exercises-ML
